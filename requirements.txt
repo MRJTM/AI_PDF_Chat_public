@@ -1,0 +1,7 @@
+openai
+langchain
+pymupdf
+chromadb==0.3.29
+tiktoken
+streamlit==1.31.0
+numpy
